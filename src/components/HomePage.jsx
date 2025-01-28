@@ -23,11 +23,11 @@ function HomePage() {
         <h2 className='text-lg text-center pt-4 font-ovo leading-9 px-4 '> <span className='md:whitespace-nowrap'>"I am a frontend developer from Delhi, eager to start my career with hands-on experience in</span> <br/> HTML, CSS, JavaScript, and React."</h2>
         </div>
         
-        <div id="home-btn" className='flex items-center justify-center gap-4 pt-4 pb-4'>
+        <div id="home-btn" className='flex flex-col  items-center justify-center gap-4 pt-4 pb-4 sm:flex-row '>
         <a  href="mailto:kmbharti1401@gmail.com" className='border flex items-center justify-center gap-3 px-4 py-2 font-ovo text-xl rounded-2xl bg-gradient-to-r from-red-400 to-pink-500 text-white font-medium'>Contact me <span>
         <IoArrowForwardOutline /></span></a>
 
-        <a  href="https://drive.google.com/file/d/1W0beryXJBpUyXTfIAB-bLGph_t-2KOSQ/view?usp=drivesdk" target="_blank" download="bharti_Resume.pdf" className='border-2 flex items-center justify-center gap-3 px-4 py-2 font-ovo text-xl rounded-2xl  text-pink-500 border-pink-500 font-bold'>My resume <span>
+        <a  href="https://drive.google.com/file/d/1WMq1OhIoQ-sS-COtU3qI1HtWgFUSOXxM/view?usp=drivesdk" target="_blank" download="bharti_Resume.pdf" className='border-2 flex items-center justify-center gap-3 px-4 py-2 font-ovo text-xl rounded-2xl  text-pink-500 border-pink-500 font-bold'>My resume <span>
         <GoDownload className='font-bold'/></span></a>
 
 

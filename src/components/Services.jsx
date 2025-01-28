@@ -19,7 +19,7 @@ const Services = React.forwardRef( function Services(props,ref) {
 
       <div
         id="service-card"
-        className="flex flex-col items-center justify-center mx-4  gap-8 md:flex-row "
+        className="flex flex-col items-center justify-center   gap-8 md:flex-row "
       >
         <ServiceCard
           Icon={<CgDesignmodo />}

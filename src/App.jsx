@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-    <div className="bg-gradient-to-r from-gray-50 to-gray-50">
+    <div className=" w-full bg-gradient-to-r from-gray-50 to-gray-50">
     <NavBar
      scrollToAbout={() => scrollToSection(aboutMeRef)}
      scrollToServices={() => scrollToSection(servicesRef)}

@@ -14,20 +14,20 @@ export default function Footer() {
         
             </div>
 
-            <div className='border-t-2 flex items-center justify-center sm:justify-between px-4 py-3 gap-4'>
+             <div className=' hidden border-t-2 sm:flex items-center justify-center sm:justify-between px-4 py-3 gap-4'>
                <div><a  href="mailto:kmbharti1401@gmail.com" className=' text-base sm:text-xl text-gray-800 font-ovo leading-8 font-medium tracking-wider text-center lg:text-left'>kmbharti1401@gmail.com</a></div>
                <div className='flex items-center justify-between gap-4'>
 
             
                <ul>
-                <li><a href='https://www.linkedin.com/in/bharti-kumari-85143722b/' target='_blank'  className='text-lg sm:text-xl text-gray-800 font-ovo leading-8 pb-8 font-medium tracking-wider text-center lg:text-left'> LinkedIn</a></li>
+                <li><a href='https://www.linkedin.com/in/bharti-kumari-85143722b/' target='_blank'  className='text-base sm:text-xl text-gray-800 font-ovo leading-8 pb-8 font-medium tracking-wider text-center lg:text-left'> LinkedIn</a></li>
                </ul>
               <ul>
-               <li><a href='https://github.com/coderbharti' target='_blank'  className='text-lg sm:text-xl text-gray-800 font-ovo leading-8 pb-8 font-medium tracking-wider text-center lg:text-left'>GitHub</a></li>
+               <li><a href='https://github.com/coderbharti' target='_blank'  className='text-base sm:text-xl text-gray-800 font-ovo leading-8 pb-8 font-medium tracking-wider text-center lg:text-left'>GitHub</a></li>
                </ul>
                </div>
 
-            </div>
+            </div> 
 
         
         </div>

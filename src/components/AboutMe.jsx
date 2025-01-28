@@ -42,11 +42,11 @@ const AboutMe = React.forwardRef(function AboutMe(props,ref) {
         <div id="tool " className='flex flex-col items-center justify-start pt-4    '>
           <h1 className='text-3xl font-ovo font-medium tracking-wider pb-4 '>Tool i use</h1>
           <div id="icon" className='flex items-center gap-6 sm:gap-20'>
-          <VscVscodeInsiders className='text-sky-500 text-5xl' />
-          <FaGithub className='text-5xl' />
-          <RiTailwindCssFill className='text-sky-400 text-5xl' />
-          <GrReactjs className='text-sky-600 text-5xl' />
-          <IoLogoJavascript className='text-5xl text-yellow-400' />
+          <VscVscodeInsiders className='text-sky-500 text-4xl sm:text-5xl' />
+          <FaGithub className='text-4xl sm:text-5xl' />
+          <RiTailwindCssFill className='text-sky-400 text-4xl sm:text-5xl' />
+          <GrReactjs className='text-sky-600 text-4xl sm:text-5xl' />
+          <IoLogoJavascript className='text-4xl sm:text-5xl text-yellow-400' />
 
           </div>
 
